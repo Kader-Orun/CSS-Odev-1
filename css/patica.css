@@ -1,0 +1,29 @@
+ /* External Css elemanları eklenmiştir. Ayrıca her Dosyanın İnternal Css elemanları bulunmaktadır. */
+body {
+background-color: rgb(220, 199, 203);
+} 
+
+h1 {
+    color: rgb(9, 72, 9);
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(73, 19, 123); 
+    font-size: 40px;
+} 
+
+h3 {
+    color: rgb(9, 99, 99); 
+    font-size: 30px;
+}
+
+h4 {
+    color: rgb(73, 123, 106);
+    font-size: 20px;
+}
+
+p {
+    color: rgb(46, 5, 5); 
+    font-size: 15px;
+} 
